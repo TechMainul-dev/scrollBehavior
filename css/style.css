@@ -54,12 +54,15 @@ section {
 
 #section1 {
     background-color: blueviolet;
+    border: 1px solid red;
 }
 
 #section2 {
     background-color: cadetblue;
+    border: 1px solid darkblue;
 }
 
 #section3 {
     background-color: chocolate;
+    border: 1px solid darkgreen;
 }
